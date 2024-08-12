@@ -7,3 +7,5 @@ language = "en"
 [output.html]
 additional-css = ["custom.css"]
 git-repository-url = "https://github.com/rust-embedded/discovery/"
+
+[output.epub]
